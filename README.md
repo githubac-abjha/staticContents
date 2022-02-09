@@ -1,3 +1,3 @@
 # staticContents
 Public repo for static contents
-testing the push
+testing the push with VPN- ON
